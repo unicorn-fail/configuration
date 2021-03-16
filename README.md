@@ -3,7 +3,7 @@
 [![Latest Version](https://img.shields.io/packagist/v/league/configuration.svg?style=flat-square)](https://packagist.org/packages/league/configuration)
 [![Total Downloads](https://img.shields.io/packagist/dt/league/configuration.svg?style=flat-square)](https://packagist.org/packages/league/configuration)
 [![Software License](https://img.shields.io/badge/License-BSD--3-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build Status](https://img.shields.io/github/workflow/status/thephpleague/configuration/Tests/latest.svg?style=flat-square)](https://github.com/thephpleague/configuration/actions?query=workflow%3ATests+branch%3Alatest)
+[![Build Status](https://img.shields.io/github/workflow/status/thephpleague/configuration/Tests/main.svg?style=flat-square)](https://github.com/thephpleague/configuration/actions?query=workflow%3ATests+branch%3Amain)
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/thephpleague/configuration.svg?style=flat-square)](https://scrutinizer-ci.com/g/thephpleague/configuration/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/thephpleague/configuration.svg?style=flat-square)](https://scrutinizer-ci.com/g/thephpleague/configuration)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/126/badge)](https://bestpractices.coreinfrastructure.org/projects/126)
@@ -33,7 +33,7 @@ $ composer require league/configuration
 >         }
 >     ],
 >     "require": {
->         "league/configuration": "dev-latest"
+>         "league/configuration": "dev-main"
 >     }
 > ```
 >
@@ -62,7 +62,7 @@ When a new **major** version is released (e.g. `1.5` -> `2.0`), the previous one
 
 To report a security vulnerability, please use the [Tidelift security contact](https://tidelift.com/security). Tidelift will coordinate the fix and disclosure with us.
 
-Please see [CONTRIBUTING](https://github.com/thephpleague/configuration/blob/latest/.github/CONTRIBUTING.md) for additional details.
+Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for additional details.
 
 ## 🧪 Testing
 
